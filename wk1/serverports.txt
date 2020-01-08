@@ -1,0 +1,22 @@
+What is the definition of server port?
+ - communication endpoint through which information flows between client and server
+
+What is server port range?
+ - 0 to 65535
+
+How many bits does number above represent?
+I didn't see any number in the PDF
+
+State 10 common server ports
+1. ftp 21
+2. ssh 22
+3. telnet 23
+4. smtp 25
+5. dns 53
+6. http 80
+7. pop 110
+8. ntp (network time protocol) 123
+9. imap 143
+10. https 443
+
+
