@@ -1,0 +1,24 @@
+--- 23.62.193.38 ping statistics ---
+26 packets transmitted, 26 received, 0% packet loss, time 25029ms
+rtt min/avg/max/mdev = 96.662/96.768/97.957/0.411 ms
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# ping 23.62.193.38 -w 6
+PING 23.62.193.38 (23.62.193.38) 56(84) bytes of data.
+64 bytes from 23.62.193.38: icmp_seq=1 ttl=53 time=96.6 ms
+64 bytes from 23.62.193.38: icmp_seq=2 ttl=53 time=96.6 ms
+64 bytes from 23.62.193.38: icmp_seq=3 ttl=53 time=96.7 ms
+64 bytes from 23.62.193.38: icmp_seq=4 ttl=53 time=96.7 ms
+64 bytes from 23.62.193.38: icmp_seq=5 ttl=53 time=96.6 ms
+64 bytes from 23.62.193.38: icmp_seq=6 ttl=53 time=96.7 ms
+
+
+--- 23.62.193.38 ping statistics ---
+6 packets transmitted, 6 received, 0% packet loss, time 5006ms
+rtt min/avg/max/mdev = 96.670/96.711/96.775/0.361 ms
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# ping 51.159.29.219 -w 6
+PING 51.159.29.219 (51.159.29.219) 56(84) bytes of data.
+64 bytes from 51.159.29.219: icmp_seq=1 ttl=50 time=107 ms
+64 bytes from 51.159.29.219: icmp_seq=2 ttl=50 time=106 ms
+64 bytes from 51.159.29.219: icmp_seq=3 ttl=50 time=106 ms
+64 bytes from 51.159.29.219: icmp_seq=4 ttl=50 time=106 ms
+64 bytes from 51.159.29.219: icmp_seq=5 ttl=50 time=106 ms
+64 bytes from 51.159.29.219: icmp_seq=6 ttl=50 time=106 ms

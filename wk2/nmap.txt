@@ -1,0 +1,49 @@
+nmap ieee.org
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:18 UTC
+Nmap scan report for ieee.org (140.98.193.152)
+Host is up (0.027s latency).
+rDNS record for 140.98.193.152: dataport.ieee.org
+Not shown: 996 filtered ports
+PORT    STATE  SERVICE
+21/tcp  closed ftp
+80/tcp  open   http
+113/tcp closed ident
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 15.75 seconds
+----------------------------------------
+nmap -p 22 georgebrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:19 UTC
+Nmap scan report for georgebrown.ca (198.96.86.202)
+Host is up (0.00098s latency).
+rDNS record for 198.96.86.202: interviewfail.ca
+
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.51 seconds
+----------------------------------
+nmap -p 22-200 georgebrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:22 UTC
+Nmap scan report for georgebrown.ca (198.96.86.202)
+Host is up (0.0012s latency).
+Not shown: 178 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 3.55 seconds
+------------------------------------------
+nmap -F georgebrown.ca
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-13 20:22 UTC
+Nmap scan report for georgebrown.ca (198.96.86.202)
+Host is up (0.0011s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.78 seconds

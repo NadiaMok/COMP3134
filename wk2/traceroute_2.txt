@@ -1,0 +1,14 @@
+tracert 159.203.29.37
+
+Tracing route to 159.203.29.37 over a maximum of 30 hops
+
+  1     5 ms     9 ms     9 ms  10.16.32.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7    10 ms    10 ms    10 ms  159.203.29.37
+
+Trace complete.
+

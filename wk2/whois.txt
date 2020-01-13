@@ -1,0 +1,217 @@
+1. wikipedia.org
+
+Domain Name:WIKIPEDIA.ORG
+Domain ID: D51687756-LROR
+Creation Date: 2001-01-13T00:12:14Z
+Updated Date: 2012-05-09T00:25:29Z
+Registry Expiry Date: 2016-01-13T00:12:14Z
+Sponsoring Registrar:MarkMonitor Inc. (R37-LROR)
+Sponsoring Registrar IANA ID: 292
+WHOIS Server:
+Referral URL:
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Domain Status: clientUpdateProhibited
+Registrant ID:mmr-116560
+Registrant Name:Domain Admin
+Registrant Organization:Wikimedia Foundation, Inc.
+Registrant Street: 149 New Montgomery Street
+Registrant Street: Third Floor
+Registrant City:San Francisco
+Registrant State/Province:CA
+Registrant Postal Code:94105
+Registrant Country:US
+Registrant Phone:+1.4158396885
+Registrant Phone Ext:
+Registrant Fax: +1.4158820495
+Registrant Fax Ext:
+Registrant Email:dns-admin@wikimedia.org
+Admin ID:mmr-116560
+Admin Name:Domain Admin
+Admin Organization:Wikimedia Foundation, Inc.
+Admin Street: 149 New Montgomery Street
+Admin Street: Third Floor
+Admin City:San Francisco
+Admin State/Province:CA
+Admin Postal Code:94105
+Admin Country:US
+Admin Phone:+1.4158396885
+Admin Phone Ext:
+Admin Fax: +1.4158820495
+Admin Fax Ext:
+Admin Email:dns-admin@wikimedia.org
+Tech ID:mmr-116560
+Tech Name:Domain Admin
+Tech Organization:Wikimedia Foundation, Inc.
+Tech Street: 149 New Montgomery Street
+Tech Street: Third Floor
+Tech City:San Francisco
+Tech State/Province:CA
+Tech Postal Code:94105
+Tech Country:US
+Tech Phone:+1.4158396885
+Tech Phone Ext:
+Tech Fax: +1.4158820495
+Tech Fax Ext:
+Tech Email:dns-admin@wikimedia.org
+Name Server:NS0.WIKIMEDIA.ORG
+Name Server:NS1.WIKIMEDIA.ORG
+Name Server:NS2.WIKIMEDIA.ORG
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+Name Server:
+DNSSEC:Unsigned
+
+2. github.com
+
+Domain Name: GITHUB.COM
+Registry Domain ID: 1264983250_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-05-13T13:58:34Z
+Creation Date: 2007-10-09T18:20:50Z
+Registry Expiry Date: 2020-10-09T18:20:50Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS-1283.AWSDNS-32.ORG
+Name Server: NS-1707.AWSDNS-21.CO.UK
+Name Server: NS-421.AWSDNS-52.COM
+Name Server: NS-520.AWSDNS-01.NET
+Name Server: NS1.P16.DYNECT.NET
+Name Server: NS2.P16.DYNECT.NET
+Name Server: NS3.P16.DYNECT.NET
+Name Server: NS4.P16.DYNECT.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-01-13T16:13:36Z <<<
+
+3. mcdonalds.com
+
+Domain Name: MCDONALDS.COM
+Registry Domain ID: 1925275_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://www.cscglobal.com/global/web/csc/digital-brand-services.html
+Updated Date: 2019-07-07T05:37:58Z
+Creation Date: 1994-07-12T04:00:00Z
+Registry Expiry Date: 2020-07-11T04:00:00Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: 8887802723
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS-1445.AWSDNS-52.ORG
+Name Server: NS-1685.AWSDNS-18.CO.UK
+Name Server: NS-76.AWSDNS-09.COM
+Name Server: NS-840.AWSDNS-41.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-01-10T08:20:42Z <<<
+
+4. georgebrown.ca
+
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2019-06-04T11:48:21Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2020-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: ariem@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: ariem@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: dgrunberg@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.georgebrown.ca
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2019-06-21T23:00:19Z <<<
+
+5. ilactesol.com
+
+Domain Name: ILACTESOL.COM
+Registry Domain ID: 1569048436_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2020-01-06T09:25:53Z
+Creation Date: 2009-09-14T20:31:36Z
+Registry Expiry Date: 2025-09-14T20:31:36Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS65.DOMAINCONTROL.COM
+Name Server: NS66.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-01-13T19:26:53Z <<<
