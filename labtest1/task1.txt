@@ -1,0 +1,135 @@
+Determine if following ports open:
+------------------------
+FTP
+------------------------
+nmap -p 21 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:46 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.073s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT   STATE    SERVICE
+21/tcp filtered ftp
+
+Nmap done: 1 IP address (1 host up) scanned in 1.06 seconds
+
+------------------------ 
+SSH
+------------------------
+nmap -p 22 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:48 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.073s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT   STATE SERVICE
+22/tcp open  ssh
+
+Nmap done: 1 IP address (1 host up) scanned in 0.50 seconds
+
+------------------------
+TELNET
+------------------------
+nmap -p 23 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:49 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.074s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT   STATE    SERVICE
+23/tcp filtered telnet
+
+Nmap done: 1 IP address (1 host up) scanned in 1.05 seconds
+
+------------------------
+SMTP
+------------------------
+nmap -p 25 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:50 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.074s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT   STATE    SERVICE
+25/tcp filtered smtp
+
+Nmap done: 1 IP address (1 host up) scanned in 1.05 seconds
+
+------------------------
+DNS(53)
+------------------------
+nmap -p 53 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:52 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.073s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT   STATE    SERVICE
+53/tcp filtered domain
+
+Nmap done: 1 IP address (1 host up) scanned in 1.04 seconds
+
+------------------------
+HTTP(80)
+------------------------
+nmap -p 80 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:52 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.074s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.51 seconds
+
+------------------------
+POP3(110)
+------------------------
+nmap -p 110 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:53 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.072s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT    STATE    SERVICE
+110/tcp filtered pop3
+
+Nmap done: 1 IP address (1 host up) scanned in 1.02 seconds
+
+------------------------
+IMAP(143)
+------------------------
+nmap -p 143 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:53 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.072s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT    STATE    SERVICE
+143/tcp filtered imap
+
+Nmap done: 1 IP address (1 host up) scanned in 1.03 seconds
+
+------------------------
+MySQL(3306)
+------------------------
+nmap -p 3306 maidstr.com
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2020-01-20 19:54 UTC
+Nmap scan report for maidstr.com (45.40.152.13)
+Host is up (0.074s latency).
+rDNS record for 45.40.152.13: ip-45-40-152-13.ip.secureserver.net
+
+PORT     STATE    SERVICE
+3306/tcp filtered mysql
+
+Nmap done: 1 IP address (1 host up) scanned in 1.04 seconds
