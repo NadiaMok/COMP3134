@@ -1,0 +1,27 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 src 198.96.85.21
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:38:56.996402 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2060959166, win 3834, length 0
+20:38:56.996434 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 145, win 3834, length 0
+20:38:57.013429 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 337, win 3839, length 0
+20:38:57.013473 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 521, win 3838, length 0
+20:38:57.025930 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 705, win 3837, length 0
+20:38:57.025959 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 889, win 3836, length 0
+20:38:57.038700 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1073, win 3836, length 0
+20:38:57.038806 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1257, win 3835, length 0
+20:38:57.051606 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1441, win 3834, length 0
+20:38:57.051651 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1625, win 3834, length 0
+20:38:57.064026 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1809, win 3839, length 0
+20:38:57.064057 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1993, win 3838, length 0
+20:38:57.076667 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2177, win 3837, length 0
+20:38:57.076706 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2361, win 3836, length 0
+20:38:57.089622 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2545, win 3836, length 0
+20:38:57.089656 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2729, win 3835, length 0
+20:38:57.102386 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2913, win 3834, length 0
+20:38:57.102419 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3097, win 3834, length 0
+20:38:57.115111 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3281, win 3839, length 0
+20:38:57.115139 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3465, win 3838, length 0
+^C
+20 packets captured
+21 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,8 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+20:32:58.848748 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.65355: Flags [P.], seq 2052164846:2052164890, ack 3366061754, win 313, length 44
+20:32:58.848931 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.65355: Flags [P.], seq 44:152, ack 1, win 313, length 108
+20:32:58.849064 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.21.65355: Flags [P.], seq 152:188, ack 1, win 313, length 36
+20:32:58.852077 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 44, win 3838, length 0
+20:32:58.852108 IP 198.96.85.21.65355 > ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 188, win 3838, length 0
+20:33:07.506703 IP ubuntu-s-1vcpu-1gb-tor1-01.ssh > 218.92.0.211.19581: Flags [P.], seq 3917182749:3917183829, ack 3894888076, win 240, options [nop,nop,TS val 2438006862 ecr 273929495], length 1080
