@@ -1,0 +1,5 @@
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# service sshd restart
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# logout
+Connection to 159.203.29.37 closed.
+
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# ssh root@159.203.29.37 -p 2222
