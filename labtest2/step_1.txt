@@ -1,0 +1,38 @@
+Command executed: tcpdump 'udp'
+------------------------------------------------
+Output produced:
+------------------------------------------------
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump 'udp'
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+19:24:08.848471 IP 198.96.85.21.56453 > ubuntu-s-1vcpu-1gb-tor1-01.55555: UDP, length 9
+19:24:08.852351 IP ubuntu-s-1vcpu-1gb-tor1-01.52374 > 67.207.67.3.domain: 1689+ [1au] PTR? 37.29.203.159.in-addr.arpa. (55)
+19:24:08.947345 IP 67.207.67.3.domain > ubuntu-s-1vcpu-1gb-tor1-01.52374: 1689 NXDomain 0/1/1 (122)
+19:24:08.947738 IP ubuntu-s-1vcpu-1gb-tor1-01.52374 > 67.207.67.3.domain: 1689+ PTR? 37.29.203.159.in-addr.arpa. (44)
+19:24:08.955106 IP 67.207.67.3.domain > ubuntu-s-1vcpu-1gb-tor1-01.52374: 1689 NXDomain 0/1/0 (111)
+19:24:08.956741 IP ubuntu-s-1vcpu-1gb-tor1-01.52357 > 67.207.67.3.domain: 38833+ [1au] PTR? 21.85.96.198.in-addr.arpa. (54)
+19:24:08.976576 IP 67.207.67.3.domain > ubuntu-s-1vcpu-1gb-tor1-01.52357: 38833 NXDomain 0/1/1 (119)
+19:24:08.981889 IP ubuntu-s-1vcpu-1gb-tor1-01.47049 > 67.207.67.3.domain: 51782+ [1au] PTR? 3.67.207.67.in-addr.arpa. (53)
+19:24:15.091465 IP 198.96.85.21.56453 > ubuntu-s-1vcpu-1gb-tor1-01.55555: UDP, length 9
+19:24:19.844113 IP 198.96.85.21.56453 > ubuntu-s-1vcpu-1gb-tor1-01.55555: UDP, length 9
+------------------------------------------------
+Packet 1
+------------------------------------------------
+Source Host: 198.96.85.21
+Source Port: 56453 
+Destination Host: ubuntu-s-1vcpu-1gb-tor1-01 (159.203.29.37)
+Destination Port: 55555
+------------------------------------------------
+Packet 2
+------------------------------------------------
+Source Host: 198.96.85.21
+Source Port: 56453 
+Destination Host: ubuntu-s-1vcpu-1gb-tor1-01 (159.203.29.37)
+Destination Port: 55555
+------------------------------------------------
+Packet 3
+------------------------------------------------
+Source Host: 198.96.85.21
+Source Port: 56453 
+Destination Host: ubuntu-s-1vcpu-1gb-tor1-01 (159.203.29.37)
+Destination Port: 55555

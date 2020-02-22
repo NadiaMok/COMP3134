@@ -1,0 +1,37 @@
+Command issued from the server: tcpdump -i any -c5 icmp
+Command issued to send packets (ping the server): ping 159.203.29.37
+--------------------------------------------------------------------
+Output from the droplet:
+------------------------
+root@ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i any -c5 icmp
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on any, link-type LINUX_SLL (Linux cooked), capture size 262144 bytes
+19:34:35.959300 IP 198.96.85.21 > ubuntu-s-1vcpu-1gb-tor1-01: ICMP echo request, id 1, seq 5, length 40
+19:34:35.959393 IP ubuntu-s-1vcpu-1gb-tor1-01 > 198.96.85.21: ICMP echo reply, id 1, seq 5, length 40
+19:34:36.960415 IP 198.96.85.21 > ubuntu-s-1vcpu-1gb-tor1-01: ICMP echo request, id 1, seq 6, length 40
+19:34:36.960503 IP ubuntu-s-1vcpu-1gb-tor1-01 > 198.96.85.21: ICMP echo reply, id 1, seq 6, length 40
+19:34:37.962443 IP 198.96.85.21 > ubuntu-s-1vcpu-1gb-tor1-01: ICMP echo request, id 1, seq 7, length 40
+5 packets captured
+6 packets received by filter
+0 packets dropped by kernel
+------------------------
+Packet 1
+------------------------
+Source Host: 198.96.85.21
+Source Port: not specified in the command output, even though the ping is successful
+Destination Host: ubuntu-s-1vcpu-1gb-tor1-01 (159.203.29.37)
+Destination Port: not specified in the command output, even though the ping is successful
+------------------------
+Packet 2
+------------------------
+Source Host: ubuntu-s-1vcpu-1gb-tor1-01 (159.203.29.37)
+Source Port: not specified in the command output, even though the ping is successful
+Destination Host: 198.96.85.21 
+Destination Port: not specified in the command output, even though the ping is successful
+------------------------
+Packet 3
+------------------------
+Source Host: 198.96.85.21
+Source Port: not specified in the command output, even though the ping is successful
+Destination Host: ubuntu-s-1vcpu-1gb-tor1-01 (159.203.29.37)
+Destination Port: not specified in the command output, even though the ping is successful
