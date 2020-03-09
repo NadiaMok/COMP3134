@@ -1,0 +1,15 @@
+What you see on the browser (the issue)
+---------------------------------------
+I see the blank white screen. The query string parameter is set, but the directory with this name does not exist. Otherwise it would have listed
+the files in that directory.
+
+
+What tactic subcategory this issue would be categorized as
+----------------------------------------------------------
+Directory Traversal as a way to attack the web server
+
+
+What sensitive information is given by this page
+------------------------------------------------
+Firstly, the contents of the directory. Some of the files might have compromising names or contain sensitiv information. 
+Apart from that, the attacker can inject JavaScript in the search bar.
