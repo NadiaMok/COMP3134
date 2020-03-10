@@ -1,0 +1,3 @@
+The difference between stripping tags and displaying the html value is that
+htmlentities() converts the tags to text and displays this text on the browserpage,
+but strip_tags() removes all the tags from the string
