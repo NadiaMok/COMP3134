@@ -1,0 +1,3 @@
+The problem is possible JavaScript injection that tehe client is not aware of. The script can be placed so
+that there's no output, but the source code is changed. It gives way to other attacks, such as directory traversal or
+cookie manipulation, depending on what the script is doing.
