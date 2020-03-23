@@ -1,3 +1,7 @@
 <?php
-echo file_get_contents( "storedxss.txt" ); // get the contents, and echo it out.
+
+$myfile = fopen("storedxss.txt", "r") or die("Unable to open file!");
+echo fread($myfile,filesize("storedxss.txt"));
+fclose($myfile);
+
 ?>
