@@ -1,0 +1,5 @@
+1. Just the column headers appeared. It was expected because no database rows matched both conditions. 
+
+2. Just the column headers appeared. It was expected because no database rows matched all the conditions. 
+
+3. Just the column headers appeared. It was expected because no database rows matched all the conditions. 

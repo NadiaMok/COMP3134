@@ -1,0 +1,13 @@
+CREATE DATABASE interface;
+
+use interface;
+
+CREATE TABLE IF NOT EXISTS users (  id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR(255), email VARCHAR(255), firstname VARCHAR(255), lastname VARCHAR(255), active BOOLEAN);
+
+INSERT INTO users VALUES (1, "nadia_v", "nadia@gbc.com", "nadia", "anotherName", 1);
+INSERT INTO users VALUES (2, "jane_j", "jane@gbc.com", "jane", "jones", 1);
+INSERT INTO users VALUES (3, "moyra_m", "moyra@gbc.com", "moyra", "mcdonald", 0);
+INSERT INTO users VALUES (4, "danny_f", "danny@gbc.com", "danny", "fort", 0);
+INSERT INTO users VALUES (5, "lesley_m", "lesley@gbc.com", "lesley", "mclaughlin", 1);
+
+INSERT INTO users VALUES (6, "ben_b", "ben@gbc.com", "Ben", "AnyName", 0);

@@ -1,0 +1,6 @@
+1. Just the column headers appeared. It was expected because no database rows matched. 
+
+2. One record was returned the user Ben, but it really should not, because the value for 'active' is set to zero. It happenned because of the '--' in the query:
+in this case, MySql ignores everything after that, so it didn't check for the 'active' value, only for name.
+
+3. No records appeared, just the column headers and the following warning message: "mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given"
